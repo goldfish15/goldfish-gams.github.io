@@ -25,7 +25,7 @@ Then upload the content in `_site` to GitHub or your host.
 ## Config
 Change everything you need in `_config.yml`. Change the footer in `_includes/footer.html`.
 
-If you want to change the color, go [here](https://github.com/dogfalo/materialize) to download SASS version 
+If you want to change the color, go [here](https://github.com/dogfalo/materialize) to download SASS version
 and replace the link in `_includes/head.html`.
 
 For comment support, you can use [Disqus](https://disqus.com/) and add the embed code to `_layouts/post.html`.
