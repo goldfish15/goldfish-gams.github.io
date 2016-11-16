@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://markbenner.github.io/home/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://markbenner.github.io/home/feed.xml" rel="self" type="application/atom+xml" /><link href="http://markbenner.github.io/home/" rel="alternate" type="text/html" /><updated>2016-11-16T14:07:53+13:00</updated><id>http://markbenner.github.io/home//</id><title type="html">Mark’s Gamedev Adventure</title><subtitle>description</subtitle><entry><title type="html">Who am I?</title><link href="http://markbenner.github.io/home/myself/2016/11/16/who-am-i.html" rel="alternate" type="text/html" title="Who am I?" /><published>2016-11-16T00:00:00+13:00</published><updated>2016-11-16T00:00:00+13:00</updated><id>http://markbenner.github.io/home/myself/2016/11/16/who-am-i</id><content type="html" xml:base="http://markbenner.github.io/home/myself/2016/11/16/who-am-i.html">&lt;p&gt;Hello. My name is Mark and I’m an aspiring game developer from New Zealand.&lt;/p&gt;
+
+&lt;p&gt;Since the beginning of 2016 I’ve been teaching myself to use Unity and I’ve decided to finally set up this site to document my learnings and share knowledge with the gamedev community.&lt;/p&gt;
+
+&lt;!-- Jekyll also offers powerful support for code snippets:
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+ --&gt;
+
+&lt;!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. --&gt;
+
+&lt;!-- [jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ --&gt;</content><category term="sticky" /><summary type="html">Hello. My name is Mark and I’m an aspiring game developer from New Zealand.</summary></entry><entry><title type="html">Zombie Survival Game - codename DOTD</title><link href="http://markbenner.github.io/home/dotd/2016/11/16/dawn-of-the-dead.html" rel="alternate" type="text/html" title="Zombie Survival Game - codename DOTD" /><published>2016-11-16T00:00:00+13:00</published><updated>2016-11-16T00:00:00+13:00</updated><id>http://markbenner.github.io/home/dotd/2016/11/16/dawn-of-the-dead</id><content type="html" xml:base="http://markbenner.github.io/home/dotd/2016/11/16/dawn-of-the-dead.html">&lt;p&gt;This is my first attempt at using Unity’s UNET for multiplayer games.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://markbenner.github.io/home/img/dotd-gif-1.gif&quot; alt=&quot;dotd1&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://markbenner.github.io/home/img/dotd-gif-2.gif&quot; alt=&quot;dotd2&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://markbenner.github.io/home/img/dotd-gif-3.gif&quot; alt=&quot;dotd3&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://markbenner.github.io/home/img/dotd-gif-4.gif&quot; alt=&quot;dotd4&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://markbenner.github.io/home/img/dotd-gif-5.gif&quot; alt=&quot;dotd5&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://markbenner.github.io/home/img/dotd-gif-6.gif&quot; alt=&quot;dotd6&quot; /&gt;&lt;/p&gt;</content><category term="sticky" /><summary type="html">This is my first attempt at using Unity’s UNET for multiplayer games.</summary></entry></feed>
