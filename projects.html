@@ -1,0 +1,9 @@
+---
+layout: base
+---
+<div class="row">
+    {% for keypair in site.categories %}
+    {% assign project = keypair | first%}
+    <a href="{{ project | prepend: '/projects/' | prepend: site.baseurl }}"><div class="chip waves-effect waves-red">{{ project }}</div></a>
+    {% endfor %}
+</div>

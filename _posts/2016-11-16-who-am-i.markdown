@@ -1,0 +1,30 @@
+---
+layout: post
+title:  Who am I?
+categories:
+    - Myself
+tags:
+    - sticky
+thumbnail: /img/dotd-1.png
+cover: /img/dotd-1.png
+prism: true
+---
+
+Hello. My name is Mark and I'm an aspiring game developer from New Zealand.
+
+Since the beginning of 2016 I've been teaching myself to use Unity and I've decided to finally set up this site to document my learnings and share knowledge with the gamedev community.
+
+<!-- Jekyll also offers powerful support for code snippets:
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %} -->
+
+<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. -->
+
+<!-- [jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
